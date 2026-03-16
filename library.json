@@ -1,0 +1,516 @@
+[
+    {
+        "name": "The Silent Code",
+        "category": "Book",
+        "genre": ["Technology"],
+        "price": 16,
+        "rating": 4.5,
+        "access_type": "user",
+        "writer": "James Carter",
+        "file_path": "Here.docx"
+
+        
+    },
+    {
+        "name": "Echoes of Tomorrow",
+        "category": "Book",
+        "genre": ["Science Fiction"],
+        "price": 19,
+        "rating": 4.7,
+        "access_type": "user",
+        "writer": "Lila Monroe",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "Whispers in the Wind",
+        "category": "Book",
+        "genre": ["Romance"],
+        "price": 13,
+        "rating": 4.2,
+        "access_type": "user",
+        "writer": "Nora Blake",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "The Last Kingdom",
+        "category": "Book",
+        "genre": ["History"],
+        "price": 20,
+        "rating": 4.6,
+        "access_type": "user",
+        "writer": "Arthur Collins",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "Mind Over Matter",
+        "category": "Book",
+        "genre": ["Self-Help"],
+        "price": 15,
+        "rating": 4.3,
+        "access_type": "user",
+        "writer": "Daniel Ross",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "Shadow Realm",
+        "category": "Book",
+        "genre": ["Fantasy"],
+        "price": 17,
+        "rating": 4.8,
+        "access_type": "user",
+        "writer": "Evelyn Storm",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "Digital Fortress",
+        "category": "Book",
+        "genre": ["Thriller"],
+        "price": 18,
+        "rating": 4.4,
+        "access_type": "user",
+        "writer": "Mark Evans",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "The Art of Calm",
+        "category": "Book",
+        "genre": ["Wellness"],
+        "price": 12,
+        "rating": 4.1,
+        "access_type": "user",
+        "writer": "Sophia Reed",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "Broken Truths",
+        "category": "Book",
+        "genre": ["Mystery"],
+        "price": 13,
+        "rating": 4.0,
+        "access_type": "user",
+        "writer": "Hannah Cole",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "Infinite Paths",
+        "category": "Book",
+        "genre": ["Philosophy"],
+        "price": 20,
+        "rating": 4.6,
+        "access_type": "user",
+        "writer": "Victor Hale",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "Rising Tides",
+        "category": "Book",
+        "genre": ["Adventure"],
+        "price": 15,
+        "rating": 4.3,
+        "access_type": "user",
+        "writer": "Leo Marshall",
+        "file_path": "Here.docx"
+
+    },
+    {
+        "name": "The Coding Mind",
+        "category": "Book",
+        "genre": ["Education"],
+        "price": 21,
+        "rating": 4.7,
+        "access_type": "user",
+        "writer": "Priya Nair",
+        "file_path": "python_weeks_plan.pdf"
+
+    },
+    {
+        "name": "Golden Ashes",
+        "category": "Book",
+        "genre": ["Drama"],
+        "price": 15,
+        "rating": 4.2,
+        "access_type": "user",
+        "writer": "Rachel Moore",
+        "file_path": "python_weeks_plan.pdf"
+    },
+    {
+        "name": "Nightfall City",
+        "category": "Book",
+        "genre": ["Crime"],
+        "price": 17,
+        "rating": 4.5,
+        "access_type": "user",
+        "writer": "Thomas Gray",
+        "file_path": "python_weeks_plan.pdf"
+    },
+    {
+        "name": "Beyond the Stars",
+        "category": "Book",
+        "genre": ["Space"],
+        "price": 19,
+        "rating": 4.8,
+        "access_type": "user",
+        "writer": "Amelia Wright",
+        "file_path": "python_weeks_plan.pdf"
+    },
+    {
+        "name": "Hidden Signals",
+        "category": "Book",
+        "genre": ["Technology"],
+        "price": 17,
+        "rating": 4.4,
+        "access_type": "user",
+        "writer": "Kevin Liu",
+        "file_path": "python_weeks_plan.pdf"
+    },
+    {
+        "name": "The Long Road Home",
+        "category": "Book",
+        "genre": ["Fiction"],
+        "price": 14,
+        "rating": 4.1,
+        "access_type": "user",
+        "writer": "Michael Stone",
+        "file_path": "python_weeks_plan.pdf"
+    },
+    {
+        "name": "Fragments of Time",
+        "category": "Book",
+        "genre": ["Time Travel"],
+        "price": 20,
+        "rating": 4.6,
+        "access_type": "user",
+        "writer": "Clara Bennett",
+        "file_path": "python_weeks_plan.pdf"
+    },
+    {
+        "name": "The Iron Will",
+        "category": "Book",
+        "genre": ["Biography"],
+        "price": 22,
+        "rating": 4.7,
+        "access_type": "user",
+        "writer": "Samuel Ortiz",
+        "file_path": "python_weeks_plan.pdf"
+    },
+    {
+        "name": "Secrets of the Mind",
+        "category": "Book",
+        "genre": ["Psychology"],
+        "price": 17,
+        "rating": 4.5,
+        "access_type": "user",
+        "writer": "Dr. Elaine Foster",
+        "file_path": "python_weeks_plan.pdf"
+    },
+    {
+        "name": "The Power Within",
+        "category": "Audiobook",
+        "genre": ["Self-Help"],
+        "price": 10,
+        "rating": 4.6,
+        "access_type": "user",
+        "writer": "Alan Brooks",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Voices of History",
+        "category": "Audiobook",
+        "genre": ["History"],
+        "price": 12,
+        "rating": 4.4,
+        "access_type": "user",
+        "writer": "Margaret Lee",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Future Horizons",
+        "category": "Audiobook",
+        "genre": ["Science Fiction"],
+        "price": 13,
+        "rating": 4.7,
+        "access_type": "user",
+        "writer": "Ian Cooper",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Calm Nights",
+        "category": "Audiobook",
+        "genre": ["Wellness"],
+        "price": 9,
+        "rating": 4.2,
+        "access_type": "user",
+        "writer": "Laura Kim",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "The Dark Alley",
+        "category": "Audiobook",
+        "genre": ["Crime"],
+        "price": 11,
+        "rating": 4.5,
+        "access_type": "user",
+        "writer": "Robert Miles",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Think Smart",
+        "category": "Audiobook",
+        "genre": ["Education"],
+        "price": 10,
+        "rating": 4.3,
+        "access_type": "user",
+        "writer": "Nina Patel",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Mystic Lands",
+        "category": "Audiobook",
+        "genre": ["Fantasy"],
+        "price": 13,
+        "rating": 4.8,
+        "access_type": "user",
+        "writer": "Oliver Grant",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "The Entrepreneur Way",
+        "category": "Audiobook",
+        "genre": ["Business"],
+        "price": 15,
+        "rating": 4.6,
+        "access_type": "user",
+        "writer": "Steven Park",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Lost Frequencies",
+        "category": "Audiobook",
+        "genre": ["Mystery"],
+        "price": 12,
+        "rating": 4.4,
+        "access_type": "user",
+        "writer": "Chloe Adams",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Deep Space Dreams",
+        "category": "Audiobook",
+        "genre": ["Space"],
+        "price": 13,
+        "rating": 4.7,
+        "access_type": "user",
+        "writer": "Ethan Cole",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Mindful Living",
+        "category": "Audiobook",
+        "genre": ["Wellness"],
+        "price": 9,
+        "rating": 4.3,
+        "access_type": "user",
+        "writer": "Sarah Lin",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Legends Reborn",
+        "category": "Audiobook",
+        "genre": ["Adventure"],
+        "price": 14,
+        "rating": 4.6,
+        "access_type": "user",
+        "writer": "Paul Rivera",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "The Inner Voice",
+        "category": "Audiobook",
+        "genre": ["Psychology"],
+        "price": 11,
+        "rating": 4.2,
+        "access_type": "user",
+        "writer": "Dr. Megan Fox",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Code Stories",
+        "category": "Audiobook",
+        "genre": ["Technology"],
+        "price": 11,
+        "rating": 4.5,
+        "access_type": "user",
+        "writer": "Andrew Zhao",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Echo Chamber",
+        "category": "Audiobook",
+        "genre": ["Thriller"],
+        "price": 13,
+        "rating": 4.4,
+        "access_type": "user",
+        "writer": "Brian Scott",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Waves of Change",
+        "category": "Audiobook",
+        "genre": ["Motivation"],
+        "price": 10,
+        "rating": 4.3,
+        "access_type": "user",
+        "writer": "Emily Turner",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "The Ancient Scrolls",
+        "category": "Audiobook",
+        "genre": ["History"],
+        "price": 14,
+        "rating": 4.6,
+        "access_type": "user",
+        "writer": "Victor Han",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Path to Success",
+        "category": "Audiobook",
+        "genre": ["Career"],
+        "price": 11,
+        "rating": 4.5,
+        "access_type": "user",
+        "writer": "Linda Gomez",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "Dreamstate",
+        "category": "Audiobook",
+        "genre": ["Fiction"],
+        "price": 12,
+        "rating": 4.1,
+        "access_type": "user",
+        "writer": "Noah Price",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "The Quiet Mind",
+        "category": "Audiobook",
+        "genre": ["Meditation"],
+        "price": 9,
+        "rating": 4.4,
+        "access_type": "user",
+        "writer": "Zen Master Kai",
+        "file_path": "audio1.mp3"
+    },
+    {
+        "name": "AI in Everyday Life",
+        "category": "Article",
+        "genre": ["Technology"],
+        "price": 0,
+        "rating": 4.5,
+        "access_type": "user",
+        "writer": "Dr. Alex Morgan",
+        "file_path": "https://www.google.com"
+    },
+    {
+        "name": "The Future of Work",
+        "category": "Article",
+        "genre": ["Business"],
+        "price": 0,
+        "rating": 4.3,
+        "access_type": "user",
+        "writer": "Rachel Young",
+        "file_path": "https://www.google.com"
+        
+    },
+    {
+        "name": "Healthy Habits 101",
+        "category": "Article",
+        "genre": ["Health"],
+        "price": 0,
+        "rating": 4.1,
+        "access_type": "user",
+        "writer": "Dr. Nina Shah",
+        "file_path": "https://www.google.com"
+    },
+    {
+        "name": "Space Tourism Explained",
+        "category": "Article",
+        "genre": ["Space"],
+        "price": 0,
+        "rating": 4.6,
+        "access_type": "user",
+        "writer": "Leo Carter",
+        "file_path": "https://www.google.com"
+    },
+    {
+        "name": "Mental Health Matters",
+        "category": "Article",
+        "genre": ["Psychology"],
+        "price": 0,
+        "rating": 4.4,
+        "access_type": "user",
+        "writer": "Olivia Brown",
+        "file_path": "https://www.google.com"
+    },
+    {
+        "name": "Climate Change Today",
+        "category": "Article",
+        "genre": ["Environment"],
+        "price": 0,
+        "rating": 4.5,
+        "access_type": "user",
+        "writer": "Daniel Green",
+        "file_path": "https://www.google.com"
+    },
+    {
+        "name": "Cybersecurity Basics",
+        "category": "Article",
+        "genre": ["Technology"],
+        "price": 0,
+        "rating": 4.2,
+        "access_type": "user",
+        "writer": "Kevin White",
+        "file_path": "https://www.google.com"
+    },
+    {
+        "name": "Remote Learning Trends",
+        "category": "Article",
+        "genre": ["Education"],
+        "price": 0,
+        "rating": 4.3,
+        "access_type": "user",
+        "writer": "Monica Lopez",
+        "file_path": "https://www.google.com"
+    },
+    {
+        "name": "The Art of Focus",
+        "category": "Article",
+        "genre": ["Productivity"],
+        "price": 0,
+        "rating": 4.4,
+        "access_type": "user",
+        "writer": "James Wilson",
+        "file_path": "https://www.google.com"
+    },
+    {
+        "name": "Modern Relationships",
+        "category": "Article",
+        "genre": ["Lifestyle"],
+        "price": 0,
+        "rating": 4.1,
+        "access_type": "user",
+        "writer": "Emma Davis",
+        "file_path": "https://www.google.com"
+    }
+]
